@@ -4,7 +4,7 @@ Tools and reference for Taskbar Hero, including a DPS calculator.
 
 ## Links
 
-- [Taskbar Hero Tools — Tools/Dps Calculator](https://taskbarhero.one/tools/dps-calculator)
+- [DPS calculator](https://taskbarhero.one/tools/dps-calculator)
 
 - [Main site](https://taskbarhero.one/)
 
