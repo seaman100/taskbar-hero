@@ -2,12 +2,12 @@
 
 Tools and reference for Taskbar Hero, including a DPS calculator.
 
-## Links
+The tool itself is at [Task Bar Hero DPS calculator](https://taskbarhero.one/tools/dps-calculator).
 
-- [DPS calculator](https://taskbarhero.one/tools/dps-calculator)
+There is a longer walkthrough at [plan a skill tree before you respec](https://taskbarhero.one/tools/skill-builder).
 
-- [Main site](https://taskbarhero.one/)
+Project home: [Task Bar Hero Wiki](https://taskbarhero.one/).
 
-## Notes
+---
 
-Independent project. Free to use in the browser; no account required.
+Independent project. Free to use in the browser, no account required.
